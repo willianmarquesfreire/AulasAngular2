@@ -1,0 +1,6 @@
+Jasmine é uma estrutura de desenvolvimento orientada por comportamento para testar o código JavaScript. Não depende de quaisquer outras estruturas JavaScript. Não requer um DOM. E tem uma sintaxe limpa e óbvia para que você possa facilmente escrever testes.
+
+http://www.raphaelfabeni.com.br/brincando-com-jasmine/
+
+
+O Protractor é uma estrutura de teste de ponta a ponta para aplicações Angular e AngularJS. Protractor executa testes contra o seu aplicativo em execução em um navegador real, interagindo com ele como um usuário faria.

@@ -14,6 +14,10 @@ export class QuoteService {
     setTimeout(() => callback(this.getRandomQuote()), delay);
   }
 
+  generateQuotesByCode(code:any) {
+    return this.quotes[code];
+  }
+
 }
 
 const sampleQuotes: Quote[] = [
